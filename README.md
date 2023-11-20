@@ -1,5 +1,5 @@
 
-<h1 align= "center" > Hello, I´m Juan Carlos</h1>
+<h1 align= "center" > Welcome to my GitHub Page!</h1>
 <p align= "center">
   <a href= "https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/">LinkedIn</a>
 
