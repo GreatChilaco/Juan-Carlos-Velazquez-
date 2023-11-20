@@ -4,16 +4,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <!-- Include Font Awesome Library -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <!-- No need for Font Awesome here -->
 </head>
 <body>
-    <!-- LinkedIn Button -->
-    <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank" style="background-color: #FFFFFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">
-        <i class="fab fa-linkedin"></i> LinkedIn Profile
+    <!-- LinkedIn Button with Image -->
+    <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank">
+        <img src="path_to_linkedin_logo_image.png" alt="LinkedIn" style="width: 50px; height: auto; border-radius: 5px;">
     </a>
 </body>
 </html>
+
 
 ## About Me
 Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science & Business Technology with a passion for technology, creating new ones and discovering new ways to improve it. On this page, you'll find a mix of personal and professional projects that reflect my skills.
