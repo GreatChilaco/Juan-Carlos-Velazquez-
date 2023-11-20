@@ -15,8 +15,8 @@ Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science
   -Python,
   -3D design
 # Education:
-  -Master in Computer Science & Business Technology, at Instituto de Empresa 
-  -Engineering in Mecatronics, at Tecnologico de Monterrey
+  - Master in Computer Science & Business Technology, at Instituto de Empresa 
+  - Engineering in Mecatronics, at Tecnologico de Monterrey
 
 
 ### Personal Interests
