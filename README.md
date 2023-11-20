@@ -9,7 +9,7 @@
 </head>
 <body>
     <!-- LinkedIn Button -->
-    <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank" style="background-color: #0077B5; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">
+    <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank" style="background-color: #FFFFFF; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">
         <i class="fab fa-linkedin"></i> LinkedIn Profile
     </a>
 </body>
