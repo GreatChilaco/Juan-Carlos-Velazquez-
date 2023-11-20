@@ -1,19 +1,11 @@
 
 <h1 align= "center" > Welcome to my GitHub Page! 👋🏽 </h1> 
-<p align= "center">
-<!DOCTYPE html>
-<html>
-<head>
-    <!-- No need for Font Awesome here -->
-</head>
-<body>
-    <!-- LinkedIn Button with Image -->
-    <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank">
-        <img src="path_to_linkedin_logo_image.png" alt="LinkedIn" style="width: 50px; height: auto; border-radius: 5px;">
-    </a>
-</body>
-</html>
-
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/juan-carlos-velazquez-de-le%C3%B3n-ortega-3067191a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ## About Me
 Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science & Business Technology with a passion for technology, creating new ones and discovering new ways to improve it. On this page, you'll find a mix of personal and professional projects that reflect my skills.
