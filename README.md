@@ -8,14 +8,15 @@
 </p>
 
 ## About Me
-Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science & Business Technology with a passion for technology, creating new ones and discovering new ways to improve it. On this page, you'll find a mix of personal and professional projects that reflect my skills.
+Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science & Business Technology with a passion for technology, learning and exploring new projects.
 
 ### Professional Background
-
-
 - **Key Skills**: Python, 3D design
-- **Education**: Master in Computer Science & Business Technology, at Instituto de Empresa Madrid
-- **Interests**: Python, Cybersecurity, AI
+- **Education**:
+-  Master in Computer Science & Business Technology, at Instituto de Empresa 
+-  Engineering in Mecatronics, at Tecnologico de Monterrey
+
+
 
 ### Personal Interests
 
