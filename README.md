@@ -11,10 +11,10 @@
 Hello! I'm Juan Carlos, a Mecatronics Engineer with a Master in Computer Science & Business Technology with a passion for technology, learning and exploring new projects.
 
 ### Professional Background
-##Key Skills:
+## Key Skills:
   -Python,
   -3D design
-##Education:
+## Education:
   -Master in Computer Science & Business Technology, at Instituto de Empresa 
   -Engineering in Mecatronics, at Tecnologico de Monterrey
 
